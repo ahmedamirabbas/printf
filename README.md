@@ -1,2 +1,2 @@
 # printf
-this is our own print f function for ALX project, made by Ahmed Amir and Kholoud Alebeed
+This repository includes a version of the printf function, the basic and main functions.
